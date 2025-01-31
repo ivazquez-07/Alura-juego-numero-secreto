@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
-let numeroMaximo = 3;
+let numeroMaximo = 10;
 
 asignarTextoElemento('h1', 'Juego del Número Secreto!');
 document.getElementById('valorUsuario').max = numeroMaximo;
