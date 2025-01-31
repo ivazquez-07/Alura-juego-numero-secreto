@@ -61,7 +61,11 @@ body::before {
     font-size: 24px;
     font-weight: 700;
     border: none;
-    margin-top: 2rem;
+    margin-top: 2rem;    
+}
+
+.container__boton:hover {
+    background:#7fb1ef;
 }
 
 .container__boton:disabled {
